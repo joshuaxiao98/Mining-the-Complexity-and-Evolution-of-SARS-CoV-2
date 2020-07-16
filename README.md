@@ -8,7 +8,7 @@ The code for
 (ii) multiclassification of Clades is Clade_Analysis_multiclassification.ipynb
 (iii) region based mutation detection is mutation_detection_region.ipynb
 
-3. All the GISAID samples listed in other csv files (that read as gisaid_hcov-19*.csv) were used to analyze the evolution trends for different clades shown in Figure 5.
+3. All the GISAID samples (~20000) listed in other csv files (that read as gisaid_hcov-19*.csv) were used to analyze the evolution trends for different clades shown in Figure 5. The code for the learning based classifier code is the same as provided in ML() and build_model() functions in Clade_Classification.ipynb.
 
 4. Samples listed in files
 
