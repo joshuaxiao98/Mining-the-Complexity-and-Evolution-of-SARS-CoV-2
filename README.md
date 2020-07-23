@@ -10,10 +10,4 @@ The code for
 
 3. All the GISAID samples (~20000) listed in other csv files (that read as gisaid_hcov-19*.csv) were used to analyze the evolution trends for different clades shown in Figure 5. The code for the learning based classifier code is the same as provided in ML() and build_model() functions in Clade_Classification.ipynb.
 
-4. Samples listed in files
 
-- USA/gisaid_hcov19_acknowledgement_table_2020_05_11_15_USA.csv and 
-- Europe/gisaid_hcov-19_acknowledgement_table_2020_05_12_19_Europe.csv 
-
-are used to generate variability plots for USA and Europe respectively. The code for computing the variable transitions is Variability.ipynb
-Note that for this analysis, you will need to create two folders with name USA and Europe respectively. Inside each of these folders, you will need to store sequences for each day in files labeled as ‘2020-mm-dd.fasta’ which will store sequences for the respective day. The python code file_generate_date.ipynb can be used to achieve that.
