@@ -1,4 +1,4 @@
-# Mining-the-Complexity-and-Evolution-of-SARS-CoV-2
+# Predicting the Emergence of SARS-CoV-2 Clades
 
 1. Important_functions.ipynb contains the code for all the functions needed to calculate transition probability matrix, entropy rate and processing of the sequence files acquired from GISAID.
 
