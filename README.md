@@ -8,6 +8,10 @@ The code for
 (ii) multiclassification of Clades is Clade_Analysis_multiclassification.ipynb
 (iii) region based mutation detection is mutation_detection_region.ipynb
 
-3. All the GISAID samples (~20000) listed in other csv files (that read as gisaid_hcov-19*.csv) were used to analyze the evolution trends for different clades shown in Figure 5. For a given clade, samples from different months are required to be put in different classes for machine learning classification. The code for the learning based classifier is the same as provided in ML() and build_model() functions in Clade_Classification.ipynb.
+3. All the GISAID samples (~20000) listed in other csv files (that read as gisaid_hcov-19*.csv) were used to analyze the evolution trends for different clades shown in Figure 5. There are two major preprocessing steps needed here:
+- First the clade for each of the samples is identified. This can be done either by using the software provided by nextstrain.org or the multiclassifier we built in obtaining Figure 3. 
+- Second, for a given clade (for example 19A), samples from different months are required to be separated on the basis of months so that they can be put into different classes for machine learning classification.
+
+After obtaining the separation of classes based on months for each clade, the code for the learning based classifier is the same as the ML() and build_model() functions used in Clade_Classification.ipynb.
 
 
