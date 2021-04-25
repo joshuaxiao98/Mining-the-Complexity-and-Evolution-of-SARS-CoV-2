@@ -1,0 +1,48 @@
+Virus name	Accession ID	Collection date	Location	Host	Passage	Specimen	Additional host information	Sequencing technology	Assembly method	Comment	Comment type	Lineage	Clade
+hCoV-19/Brazil/SP-874/2020	EPI_ISL_755640	2020-12-03	South America / Brazil / São Paulo / São Paulo	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-875/2020	EPI_ISL_755641	2020-12-01	South America / Brazil / São Paulo / Sao Bernardo do Campo	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-876/2020	EPI_ISL_755642	2020-12-05	South America / Brazil / São Paulo / Mogi das Cruzes	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			P.2	GR
+hCoV-19/Brazil/SP-877/2020	EPI_ISL_755643	2020-12-07	South America / Brazil / São Paulo / Mogi das Cruzes	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-878/2020	EPI_ISL_755644	2020-12-08	South America / Brazil / São Paulo / Embu das Artes	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-879/2020	EPI_ISL_755645	2020-12-08	South America / Brazil / São Paulo / Taboao da Serra	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			P.2	GR
+hCoV-19/Brazil/SP-880/2020	EPI_ISL_755646	2020-12-07	South America / Brazil / São Paulo / Sao Bernardo do Campo	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-881/2020	EPI_ISL_755647	2020-12-08	South America / Brazil / São Paulo / Sao Bernardo do Campo	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.143	GR
+hCoV-19/Brazil/SP-882/2020	EPI_ISL_755648	2020-12-08	South America / Brazil / São Paulo / Caraguatatuba	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-883/2020	EPI_ISL_755649	2020-12-06	South America / Brazil / São Paulo / Sao Bernardo do Campo	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.33	GR
+hCoV-19/Brazil/SP-884/2020	EPI_ISL_755650	2020-12-08	South America / Brazil / São Paulo / Caraguatatuba	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-885/2020	EPI_ISL_755651	2020-12-10	South America / Brazil / São Paulo / Poa	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			P.2	GR
+hCoV-19/Brazil/SP-886/2020	EPI_ISL_755652	2020-12-09	South America / Brazil / São Paulo / Embu das Artes	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.33	GR
+hCoV-19/Brazil/SP-887/2020	EPI_ISL_755653	2020-12-12	South America / Brazil / São Paulo / Guararema	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			P.2	GR
+hCoV-19/Brazil/SP-888/2020	EPI_ISL_755654	2020-12-11	South America / Brazil / São Paulo / São Paulo	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.143	GR
+hCoV-19/Brazil/SP-889/2020	EPI_ISL_755655	2020-12-11	South America / Brazil / São Paulo / Indaiatuba	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-872/2020	EPI_ISL_776768	2020-12-01	South America / Brazil / São Paulo / Aracatuba	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.143	GR
+hCoV-19/Brazil/AM-20142761FC/2020	EPI_ISL_833131	2020-12-01	South America / Brazil / Amazonas / Manaus	Human	Original	Oropharyngeal swab		Illumina MiSeq	BBMap 37.25 embedded in Geneious 10.2.6			B.1.1.28	GR
+hCoV-19/Brazil/AM-20142910VS/2020	EPI_ISL_833132	2020-12-10	South America / Brazil / Amazonas / Manaus	Human	Original	Oropharyngeal swab		Illumina MiSeq	BBMap 37.25 embedded in Geneious 10.2.6			B.1.1.28	GR
+hCoV-19/Brazil/AM-20143164MG/2020	EPI_ISL_833133	2020-12-18	South America / Brazil / Amazonas / Manaus	Human	Original	Oropharyngeal swab		Illumina MiSeq	BBMap 37.25 embedded in Geneious 10.2.6			B.1.1.28	GR
+hCoV-19/Brazil/AM-20843044TM/2020	EPI_ISL_833134	2020-12-14	South America / Brazil / Amazonas / Manaus	Human	Original	Oropharyngeal swab		Illumina MiSeq	BBMap 37.25 embedded in Geneious 10.2.6			B.1.1.28	GR
+hCoV-19/Brazil/SP-919/2020	EPI_ISL_833159	2020-12-13	South America / Brazil / Sao Paulo / Mogi das Cruzes	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.33	GR
+hCoV-19/Brazil/SP-921/2020	EPI_ISL_833160	2020-12-10	South America / Brazil / Sao Paulo / Sao Bernardo do Campo	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-975/2021	EPI_ISL_833165	2021-01-06	South America / Brazil / Sao Paulo / Sao Paulo	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-976/2021	EPI_ISL_833166	2021-01-06	South America / Brazil / Sao Paulo / Sao Paulo	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA	NS8_Q27stop results in 78.5% truncation of the protein sequence. Gap of 19 nucleotides when compared to the reference sequence.	info	B.1.1.7	GR
+hCoV-19/Brazil/AM-988/2020	EPI_ISL_833168	2020-12-23	South America / Brazil / Amazonas	Human	Original	Nasopharyngeal swab	EPI_ISL_833168 refers to same patient from submission EPI_ISL_804834	Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-912/2020	EPI_ISL_836143	2020-12-07	South America / Brazil / Sao Paulo / Atibaia	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			P.2	GR
+hCoV-19/Brazil/SP-915/2020	EPI_ISL_836977	2020-12-08	South America / Brazil / Sao Paulo / Sao Jose dos Campos	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			P.2	GR
+hCoV-19/Brazil/SP-916/2020	EPI_ISL_836978	2020-12-08	South America / Brazil / Sao Paulo / Lorena	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.28	GR
+hCoV-19/Brazil/SP-917/2020	EPI_ISL_837053	2020-12-07	South America / Brazil / Sao Paulo / Osasco	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.143	GR
+hCoV-19/Brazil/SP-918/2020	EPI_ISL_837054	2020-12-09	South America / Brazil / Sao Paulo / Osasco	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA			B.1.1.143	GR
+hCoV-19/Brazil/SP-981/2021	EPI_ISL_860317	2021-01-07	South America / Brazil / Sao Paulo / Sorocaba	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA	NS8_Q27stop results in 78.5% truncation of the protein sequence. Gap of 19 nucleotides when compared to the reference sequence.	info	B.1.1.7	GR
+hCoV-19/Brazil/SP-982/2021	EPI_ISL_860633	2021-01-07	South America / Brazil / Sao Paulo / Sorocaba	Human	Original	Nasopharyngeal swab		Ion Torrent S5	IRMA	NS8_Q27stop results in 78.5% truncation of the protein sequence. Gap of 19 nucleotides when compared to the reference sequence.	info	B.1.1.7	GR
+hCoV-19/Brazil/SP-913/2020	EPI_ISL_861669	2020-12-08	South America / Brazil / Sao Paulo / Embu-Guacu	Human	Original	Nasopharyngeal swab		Ion Torrent S34	IRMA			B.1.1.143	GR
+hCoV-19/Brazil/SP-914/2020	EPI_ISL_861670	2020-12-08	South America / Brazil / Sao Paulo / Lorena	Human	Original	Nasopharyngeal swab		Ion Torrent S35	IRMA			B.1.1.33	GR
+hCoV-19/Brazil/SP-891/2020	EPI_ISL_861674	2020-12-16	South America / Brazil / Sao Paulo / Caraguatatuba	Human	Original	Nasopharyngeal swab		Ion Torrent S39	IRMA			P.2	GR
+hCoV-19/Brazil/SP-892/2020	EPI_ISL_861675	2020-12-16	South America / Brazil / Sao Paulo / Caraguatatuba	Human	Original	Nasopharyngeal swab		Ion Torrent S40	IRMA			P.2	GR
+hCoV-19/Brazil/SP-983/2020	EPI_ISL_861676	2020-12-23	South America / Brazil / Sao Paulo / Sao Paulo	Human	Original	Nasopharyngeal swab		Ion Torrent S41	IRMA	NS7b_E33stop results in 25.6% truncation of the protein sequence.	info	P.2	GR
+hCoV-19/Brazil/SP-984/2020	EPI_ISL_861677	2020-12-23	South America / Brazil / Sao Paulo / Sao Paulo	Human	Original	Nasopharyngeal swab		Ion Torrent S42	IRMA			P.2	GR
+hCoV-19/Brazil/SP-985/2020	EPI_ISL_861678	2020-12-22	South America / Brazil / Sao Paulo / Guarulhos	Human	Original	Nasopharyngeal swab		Ion Torrent S43	IRMA			B.1.1.33	GR
+hCoV-19/Brazil/SP-986/2020	EPI_ISL_861679	2020-12-28	South America / Brazil / Sao Paulo / Pindamonhangaba	Human	Original	Nasopharyngeal swab		Ion Torrent S44	IRMA			P.2	GR
+hCoV-19/Brazil/SP-1002/2020	EPI_ISL_861680	2020-12-26	South America / Brazil / Sao Paulo / Sao Paulo	Human	Original	Nasopharyngeal swab		Ion Torrent S45	IRMA			B.1.1.143	GR
+hCoV-19/Brazil/SP-1004/2020	EPI_ISL_861682	2020-12-20	South America / Brazil / Sao Paulo / Sao Paulo	Human	Original	Nasopharyngeal swab		Ion Torrent S47	IRMA			B.1.1.143	GR
+hCoV-19/Brazil/SP-1005/2021	EPI_ISL_861683	2021-01-04	South America / Brazil / Sao Paulo / Guarulhos	Human	Original	Nasopharyngeal swab		Ion Torrent S48	IRMA			P.2	GR
+hCoV-19/Brazil/SP-1006/2021	EPI_ISL_861684	2021-01-02	South America / Brazil / Sao Paulo / Sao Paulo	Human	Original	Nasopharyngeal swab		Ion Torrent S49	IRMA			P.2	GR
+hCoV-19/Brazil/SP-1007/2021	EPI_ISL_861685	2021-01-02	South America / Brazil / Sao Paulo / Sao Paulo	Human	Original	Nasopharyngeal swab		Ion Torrent S50	IRMA			P.2	GR
+hCoV-19/Brazil/SP-HIAE-ID08/2020	EPI_ISL_861873	2020-12-11	South America / Brazil / São Paulo	Human	Original			Illumina NextSeq				B.1.1.28	GR
