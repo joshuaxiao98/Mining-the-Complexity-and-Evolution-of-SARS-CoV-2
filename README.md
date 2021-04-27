@@ -1,4 +1,4 @@
-# Predicting the Emergence of SARS-CoV-2 Clades
+# Generator based approach to analyze mutations in genomic datasets
 
 1. Important_functions.ipynb contains the code for all the functions needed to calculate transition probability matrix, entropy rate and processing of the sequence files acquired from GISAID.
 
